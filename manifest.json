@@ -1,0 +1,17 @@
+{
+  "short_name": "Dark Mode",
+  "name": "Dark Mode for Workvivo",
+  "background": {
+    "scripts": ["background.js"]
+  },
+ 
+  "permissions": [
+    "Tabs"
+    
+  ],
+  "manifest_version": 2,
+  "browser_action": {
+    "default_title": "Dark Mode for Workvivo"
+  },
+  "version": "1.0"
+}
