@@ -20,6 +20,10 @@
       background-color: #2a2a2a !important;
   }
   
+  .small .dark-text {
+    background-color: #abb2bf !important;
+  }
+
   h1,
   h2,
   h3,
@@ -305,6 +309,9 @@
     background-color: #2a2a2a !important; 
   }
 
+  .modal-content {
+    background-color: #2a2a2a !important; 
+  }
   /* Call to clap for article */
   .u-textColorDarker,
   .link,
